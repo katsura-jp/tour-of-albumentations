@@ -126,7 +126,9 @@ Composeの内部にOneOfを入れることで、より柔軟に画像をラン�
 
 ### Transformsの一覧
 
-### [Blur系](./examples/example-blur.ipynb){:target="_blank"}
+### [Blur系](./examples/example-blur.ipynb)
+
+### <a href="./examples/example-blur.ipynb" target="_blank">Blur系</a>
 1. Blur
 1. MotionBlur
 1. MedianBlur
