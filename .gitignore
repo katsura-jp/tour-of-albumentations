@@ -2,5 +2,5 @@
 .ipynb_checkpoints/
 ./**/.DS_Store/
 ./**/.ipynb_checkpoints/
-./**/__pycache__/
+./examples/__pycache__/
 Example-Albumentations.ipynb

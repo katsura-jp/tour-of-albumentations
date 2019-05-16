@@ -108,7 +108,7 @@ Compositionは、画像を変換する際に変換するアルゴリズムのリ
 - Compose : リストを順に適用していく
 - OneOf : リストの中から1つを選択し適用していく
 
-![compose](./img/composition.png)
+![compose](./img/Composition.png)
 
 Composeの内部にOneOfを入れることで、より柔軟に画像をランダムに変換できます。
 
