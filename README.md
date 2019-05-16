@@ -127,25 +127,23 @@ Composeの内部にOneOfを入れることで、より柔軟に画像をラン�
 ### Transformsの一覧
 
 ### [Blur系](./examples/example-blur.ipynb)
-
-### <a href="./examples/example-blur.ipynb" target="_blank">Blur系</a>
 1. Blur
 1. MotionBlur
 1. MedianBlur
 1. GaussianBlur
 
-### Flip系
+### [Flip系](./examples/example-flip.ipynb)
 1. VerticalFlip
 1. HorizontalFlip
 1. Flip
 
-### Rotate系
+### [Rotate系](./examples/example-rotate.ipynb)
 1. Transpose
 1. RandomRotate90
 1. Rotate
 1. ShiftScaleRotate
 
-### Crop&Scale系
+### [Crop&Scale系](./examples/example-crop-scale.ipynb)
 1. RandomCrop
 1. ShiftScaleRotate (Rotate系に記載)
 1. CenterCrop
@@ -159,12 +157,12 @@ Composeの内部にOneOfを入れることで、より柔軟に画像をラン�
 1. RandomCropNearBBox
 1. RandomSizedBBoxSafeCrop
 
-### Distortion系
+### [Distortion系](./examples/example-distortion.ipynb)
 1. OpticalDistortion
 1. GridDistortion
 1. ElasticTransform
 
-### 色変換系
+### [色変換系](./examples/example-color-change.ipynb)
 1. CLAHE
 1. InvertImg
 1. RandomGamma
@@ -176,11 +174,11 @@ Composeの内部にOneOfを入れることで、より柔軟に画像をラン�
 1. RandomContrast
 1. ToGray
 
-### ノイズ系
+### [ノイズ系](./examples/example-noise.ipynb)
 1. GaussNoise
 1. Cutout
 
-### その他
+### [その他](./examples/example-other.ipynb)
 1. Normalize
 1. JpegCompression
 1. ToFloat
