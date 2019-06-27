@@ -1,10 +1,5 @@
 # Tour of Albumentations
-
-このレポジトリは、albumentationsのtransformsクラスを主にまとめたものになります。
-
-間違い等ございましたら　[@katsura_jp](https://twitter.com/katsura_jp)　までお願いします。
-
-著者のブログは [こちら](http://katsura-jp.hatenablog.com/about)
+albumentationsのtransformsクラスのまとめ。
 
 
 ## Albumentationsとは？
